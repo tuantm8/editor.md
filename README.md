@@ -9,7 +9,7 @@
 ![](https://img.shields.io/github/issues/pandao/editor.md.svg)
 ![](https://img.shields.io/bower/v/editor.md.svg)
 
-**Editor.md** : The open source embeddable online markdown editor (component), based on CodeMirror & jQuery & Marked.
+**Editor.md** : The opensource online markdown editor, based on CodeMirror & jQuery & Marked.
 
 ### Features
 
@@ -26,11 +26,11 @@
 
 --------
 
-**Editor.md** 是一款开源的、可嵌入的 Markdown 在线编辑器（组件），基于 CodeMirror、jQuery 和 Marked 构建。
+**Editor.md** is an opensource online Markdown editor, based on CodeMirror, jQuery and Marked.
 
 ![editormd-screenshot](https://pandao.github.io/editor.md/examples/images/editormd-screenshot.png "editormd-screenshot")
 
-#### 主要特性
+#### Features
 
 - 支持通用 Markdown / CommonMark 和 GFM (GitHub Flavored Markdown) 风格的语法，也可[变身为代码编辑器](https://pandao.github.io/editor.md/examples/change-mode.html)；
 - 支持实时预览、图片（跨域）上传、预格式文本/代码/表格插入、代码折叠、跳转到行、搜索替换、只读模式、自定义样式主题和多语言语法高亮等功能；
